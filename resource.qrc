@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/add_data.png</file>
+        <file>img/deletedata.png</file>
+        <file>img/exit.png</file>
+        <file>img/print.png</file>
+        <file>img/savedata.png</file>
+        <file>img/search.png</file>
+        <file>img/update_data.png</file>
+    </qresource>
+</RCC>
